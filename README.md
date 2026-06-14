@@ -70,7 +70,7 @@ Make sure you have the following software installed on your machine:
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/Prajwal-dev-dsa/PixelShop.git
-    cd PIXEL-SHOP-PERN
+    cd PixelShop
     ```
 
 2.  **Setup the Backend:**
