@@ -69,7 +69,7 @@ Make sure you have the following software installed on your machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Prajwal-dev-dsa/PIXEL-SHOP-PERN.git
+    git clone https://github.com/Prajwal-dev-dsa/PixelShop.git
     cd PIXEL-SHOP-PERN
     ```
 
